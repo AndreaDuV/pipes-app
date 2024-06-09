@@ -17,7 +17,7 @@ export class UncommonPageComponent {
   }
 
   changeClient():void {
-    this.name = 'Melissa';
+    this.name = 'Andrea';
     this.gender = 'female';
   }
 
